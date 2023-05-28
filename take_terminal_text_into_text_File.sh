@@ -1,2 +1,2 @@
 #! /bin/bash
-cat > userText.txt
+cat >> userText.txt
